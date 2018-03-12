@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Tangerine');
+
+.main {
+  text-align: center;
+}
+
+.header {
+    font-family: 'Tangerine';
+    font-size: 70px;
+}
+
+.poem {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
